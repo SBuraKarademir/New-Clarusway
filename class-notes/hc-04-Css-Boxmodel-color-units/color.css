@@ -1,0 +1,44 @@
+h1{
+    background-color: black;
+    color: orange;
+}
+
+.par1{
+    background-color: red;
+}
+
+.par2{
+    background-color: rgb(0, 0, 255 );
+    color: rgb(255, 255, 0);
+}
+
+.par3{
+    background-color: #abc54e;
+
+}
+
+.par4{
+    background-color: hsl(315, 100%, 50%);
+
+}
+
+.par5{
+    background-color: rgba(0, 255, 55, 0.5);
+    color: orange;
+
+}
+
+.par6{
+    background-color: hsl(0, 100%, 50%);
+
+}
+
+.par7{
+    background-color: #F39E1D;
+
+}
+.par8{
+    background-color: #C45156a1;
+
+}
+
